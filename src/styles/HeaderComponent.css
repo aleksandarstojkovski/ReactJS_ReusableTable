@@ -1,0 +1,8 @@
+th {
+    width: 1px;
+    white-space: nowrap;
+}
+
+.interaction {
+    cursor: pointer;
+}
